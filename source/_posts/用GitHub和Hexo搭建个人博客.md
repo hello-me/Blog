@@ -99,6 +99,6 @@ tags: GitHub   Hexo
    
    写完后,用以下命令就可以就可以发布到我们的GitHub仓库了
    >  hexo g
-   > hexo d
+   >  hexo d
     
      

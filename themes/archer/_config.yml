@@ -41,9 +41,9 @@ main_title:  Do Better
 # subtitle
 subtitle: 你很自由，充满无限可能，这是很棒的事情
 # site haeder image
-site_header_image: '/intro/wanzi.jpg'
+site_header_image: 'http://www.sinaimg.cn/ent/cr/2016/0926/4191315524.jpg'
 # post haeder image
-post_header_image: '/intro/wanzi.jpg'
+post_header_image: 'http://www.sinaimg.cn/ent/cr/2016/0926/4191315524.jpg'
 # 404 image
 _404_image: '/intro/404-bg.jpg'
 
@@ -92,7 +92,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # favicon
-favicon: /assets/meee.jpg
+favicon: '/assets/me.jpg'
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
 truncate_length: 100
 # enable toc

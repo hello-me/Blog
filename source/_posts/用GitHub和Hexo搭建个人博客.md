@@ -100,5 +100,9 @@ tags: GitHub   Hexo
    写完后,用以下命令就可以就可以发布到我们的GitHub仓库了
    >  hexo g
    >  hexo d
+   
+   因为写博客一般用的都是MarkDown,所以不太熟悉还是需要看下的
+   [Mrakdown入门指南](https://sspai.com/post/25137)
+     
     
      

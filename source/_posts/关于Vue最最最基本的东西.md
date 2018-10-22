@@ -1,5 +1,5 @@
 ---
-title: 关于Vue最最最基本的东西
+title: 关于Vue基本的东西
 date: 2018-07-06 15:54:03
 tags: Vue
 ---
